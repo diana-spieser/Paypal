@@ -29,4 +29,4 @@ a few improvements and more explanation.
 * bundle install
 * rails s
 * head over to localhost:3000/products to create new products
-* localhost:3000 to view the main page
+* localhost:3000 to view the main page# Paypal
